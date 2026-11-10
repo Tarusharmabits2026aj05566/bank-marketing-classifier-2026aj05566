@@ -71,7 +71,7 @@ The preprocessing steps were fitted on the training data and then applied to the
 
 ## 3. GitHub Repository Link
 
-**Repository:** [Add your GitHub repository URL here]
+**Repository:** https://github.com/Tarusharmabits2026aj05566/bank-marketing-classifier-2026aj05566
 
 The repository contains the notebook, Streamlit application, test dataset, model comparison results, saved trained models and preprocessing artifact.
 
