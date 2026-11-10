@@ -162,8 +162,7 @@ Therefore, Gaussian Naive Bayes is my preferred model for this particular classi
 
 ## 5. Streamlit Application
 
-**Live Application:** [Add your Streamlit Community Cloud URL here]
-
+**Live Application:** https://bank-marketing-classifier-2026aj05566-cbeps3vxrzhqtxf4iz6if5.streamlit.app/
 I developed a Streamlit application to make the model evaluation interactive.
 
 The application provides the following features:
